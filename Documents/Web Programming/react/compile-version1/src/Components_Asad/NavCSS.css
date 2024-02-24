@@ -1,0 +1,32 @@
+.navs {
+    background-color: #1e002d;
+  }
+  
+  .rounded-circle {
+    border: 2px solid #fff;
+  }
+  
+  .text-white {
+    color: #fff !important; 
+    text-decoration: none !important;
+  }
+
+  .navbar-brand{
+    color: #fff !important;
+    font-size: 25px !important;
+    padding-left: 20px !important;
+  }
+
+
+  .SearchBar{
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .SearchBarInside{
+    background-color: transparent !important;
+    border-width: 2px !important;
+    border-color: rgb(120, 120, 120) !important;
+    color: #fff;
+  }
+
